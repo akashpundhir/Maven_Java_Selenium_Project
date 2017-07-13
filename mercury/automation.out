@@ -1,0 +1,284 @@
+2017-07-09 01:26:39 INFO  TestBase:42 - creating a object of Firefox
+2017-07-09 01:26:39 INFO  TestBase:45 - firefox is up and maximaze for use
+2017-07-09 01:26:39 INFO  TestBase:27 - Luanched Browser
+2017-07-09 01:26:42 INFO  TestBase:29 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-09 01:26:42 INFO  TestBase:33 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 01:26:42 INFO  TC002__VerifyRegistration:25 - ===================Starting of testcase VerifyRegistration========================== 
+2017-07-09 01:26:42 INFO  TC002__VerifyRegistration:36 - ===================Finished testcase VerifyRegistration Successfully========================== 
+2017-07-09 01:30:21 INFO  TestBase:42 - creating a object of Firefox
+2017-07-09 01:30:21 INFO  TestBase:45 - firefox is up and maximaze for use
+2017-07-09 01:30:21 INFO  TestBase:27 - Luanched Browser
+2017-07-09 01:30:24 INFO  TestBase:29 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-09 01:30:24 INFO  TestBase:33 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 01:30:24 INFO  TC002__VerifyRegistration:25 - ===================Starting of testcase VerifyRegistration========================== 
+2017-07-09 01:30:24 INFO  TC002__VerifyRegistration:36 - ===================Finished testcase VerifyRegistration Successfully========================== 
+2017-07-09 01:33:30 INFO  TestBase:42 - creating a object of Firefox
+2017-07-09 01:33:30 INFO  TestBase:45 - firefox is up and maximaze for use
+2017-07-09 01:33:30 INFO  TestBase:27 - Luanched Browser
+2017-07-09 01:33:33 INFO  TestBase:29 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-09 01:33:33 INFO  TestBase:33 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 01:33:33 INFO  TC002__VerifyRegistration:36 - ===================Finished testcase VerifyRegistration Successfully========================== 
+2017-07-09 01:35:52 INFO  TestBase:42 - creating a object of Firefox
+2017-07-09 01:35:52 INFO  TestBase:45 - firefox is up and maximaze for use
+2017-07-09 01:35:52 INFO  TestBase:27 - Luanched Browser
+2017-07-09 01:35:55 INFO  TestBase:29 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-09 01:35:55 INFO  TestBase:33 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 01:35:55 INFO  TC002__VerifyRegistration:25 - ===================Starting of testcase VerifyRegistration========================== 
+2017-07-09 01:36:25 INFO  TC002__VerifyRegistration:33 - ===================Finished testcase VerifyRegistration Successfully========================== 
+2017-07-09 01:38:33 INFO  TestBase:42 - creating a object of Firefox
+2017-07-09 01:38:33 INFO  TestBase:45 - firefox is up and maximaze for use
+2017-07-09 01:38:33 INFO  TestBase:27 - Luanched Browser
+2017-07-09 01:38:36 INFO  TestBase:29 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-09 01:38:36 INFO  TestBase:33 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 01:38:36 INFO  TC002__VerifyRegistration:25 - ===================Starting of testcase VerifyRegistration========================== 
+2017-07-09 01:39:06 INFO  TC002__VerifyRegistration:34 - ===================Finished testcase VerifyRegistration Successfully========================== 
+2017-07-09 01:40:04 INFO  TestBase:42 - creating a object of Firefox
+2017-07-09 01:40:04 INFO  TestBase:45 - firefox is up and maximaze for use
+2017-07-09 01:40:04 INFO  TestBase:27 - Luanched Browser
+2017-07-09 01:40:07 INFO  TestBase:29 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-09 01:40:07 INFO  TestBase:33 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 01:40:07 INFO  TC002__VerifyRegistration:25 - ===================Starting of testcase VerifyRegistration========================== 
+2017-07-09 01:40:07 INFO  TC002__VerifyRegistration:34 - ===================Finished testcase VerifyRegistration Successfully========================== 
+2017-07-09 01:45:33 INFO  TestBase:42 - creating a object of Firefox
+2017-07-09 01:45:33 INFO  TestBase:45 - firefox is up and maximaze for use
+2017-07-09 01:45:33 INFO  TestBase:27 - Luanched Browser
+2017-07-09 01:45:35 INFO  TestBase:29 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-09 01:45:35 INFO  TestBase:33 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 01:45:35 INFO  TC002__VerifyRegistration:25 - ===================Starting of testcase VerifyRegistration========================== 
+2017-07-09 01:45:36 INFO  TC002__VerifyRegistration:37 - ===================Finished testcase VerifyRegistration Successfully========================== 
+2017-07-09 01:48:49 INFO  TestBase:42 - creating a object of Firefox
+2017-07-09 01:48:49 INFO  TestBase:45 - firefox is up and maximaze for use
+2017-07-09 01:48:49 INFO  TestBase:27 - Luanched Browser
+2017-07-09 01:48:52 INFO  TestBase:29 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-09 01:48:52 INFO  TestBase:33 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 01:48:52 INFO  TC002__VerifyRegistration:24 - ===================Starting of testcase VerifyRegistration========================== 
+2017-07-09 01:48:52 INFO  TC002__VerifyRegistration:34 - ===================Finished testcase VerifyRegistration Successfully========================== 
+2017-07-09 13:23:42 INFO  TestBase:42 - creating a object of Firefox
+2017-07-09 13:23:42 INFO  TestBase:45 - firefox is up and maximaze for use
+2017-07-09 13:23:42 INFO  TestBase:27 - Luanched Browser
+2017-07-09 13:23:45 INFO  TestBase:29 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-09 13:23:45 INFO  TestBase:33 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 13:23:45 INFO  TC002__VerifyRegistration:24 - ===================Starting of testcase VerifyRegistration========================== 
+2017-07-09 13:23:46 INFO  TC002__VerifyRegistration:34 - ===================Finished testcase VerifyRegistration Successfully========================== 
+2017-07-09 13:32:23 INFO  TestBase:42 - creating a object of Firefox
+2017-07-09 13:32:23 INFO  TestBase:45 - firefox is up and maximaze for use
+2017-07-09 13:32:23 INFO  TestBase:27 - Luanched Browser
+2017-07-09 13:32:26 INFO  TestBase:29 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-09 13:32:26 INFO  TestBase:33 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 13:32:26 INFO  TC002__VerifyRegistration:29 - ===================Starting of testcase VerifyRegistration========================== 
+2017-07-09 13:33:00 INFO  TC002__VerifyRegistration:48 - ===================Finished testcase VerifyRegistration Successfully========================== 
+2017-07-09 13:35:02 INFO  TestBase:42 - creating a object of Firefox
+2017-07-09 13:35:02 INFO  TestBase:45 - firefox is up and maximaze for use
+2017-07-09 13:35:02 INFO  TestBase:27 - Luanched Browser
+2017-07-09 13:35:04 INFO  TestBase:29 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-09 13:35:04 INFO  TestBase:33 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 13:35:05 INFO  TC002__VerifyRegistration:29 - ===================Starting of testcase VerifyRegistration========================== 
+2017-07-09 13:38:15 INFO  TestBase:42 - creating a object of Firefox
+2017-07-09 13:38:15 INFO  TestBase:45 - firefox is up and maximaze for use
+2017-07-09 13:38:15 INFO  TestBase:27 - Luanched Browser
+2017-07-09 13:38:17 INFO  TestBase:29 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-09 13:38:17 INFO  TestBase:33 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 13:38:17 INFO  TC002__VerifyRegistration:29 - ===================Starting of testcase VerifyRegistration========================== 
+2017-07-09 19:56:53 INFO  TestBase:42 - creating a object of Firefox
+2017-07-09 19:56:53 INFO  TestBase:45 - firefox is up and maximaze for use
+2017-07-09 19:56:53 INFO  TestBase:27 - Luanched Browser
+2017-07-09 19:56:56 INFO  TestBase:29 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-09 19:56:56 INFO  TestBase:33 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 19:56:56 INFO  TC002__VerifyRegistration:29 - ===================Starting of testcase VerifyRegistration========================== 
+2017-07-09 19:57:39 INFO  TC002__VerifyRegistration:51 - ===================Finished testcase VerifyRegistration Successfully========================== 
+2017-07-09 20:30:56 INFO  TestBase:42 - creating a object of Firefox
+2017-07-09 20:30:56 INFO  TestBase:45 - firefox is up and maximaze for use
+2017-07-09 20:30:56 INFO  TestBase:27 - Luanched Browser
+2017-07-09 20:30:58 INFO  TestBase:29 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-09 20:30:58 INFO  TestBase:33 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 20:30:58 INFO  TC002__VerifyRegistration:29 - ===================Starting of testcase VerifyRegistration========================== 
+2017-07-09 20:33:33 INFO  TestBase:42 - creating a object of Firefox
+2017-07-09 20:33:33 INFO  TestBase:45 - firefox is up and maximaze for use
+2017-07-09 20:33:33 INFO  TestBase:27 - Luanched Browser
+2017-07-09 20:33:36 INFO  TestBase:29 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-09 20:33:36 INFO  TestBase:33 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 20:33:36 INFO  TC002__VerifyRegistration:29 - ===================Starting of testcase VerifyRegistration========================== 
+2017-07-09 20:38:14 INFO  TestBase:42 - creating a object of Firefox
+2017-07-09 20:38:14 INFO  TestBase:45 - firefox is up and maximaze for use
+2017-07-09 20:38:14 INFO  TestBase:27 - Luanched Browser
+2017-07-09 20:38:16 INFO  TestBase:29 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-09 20:38:16 INFO  TestBase:33 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 20:38:16 INFO  TC002__VerifyRegistration:29 - ===================Starting of testcase VerifyRegistration========================== 
+2017-07-09 20:39:27 INFO  TestBase:42 - creating a object of Firefox
+2017-07-09 20:39:27 INFO  TestBase:45 - firefox is up and maximaze for use
+2017-07-09 20:39:27 INFO  TestBase:27 - Luanched Browser
+2017-07-09 20:39:30 INFO  TestBase:29 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-09 20:39:30 INFO  TestBase:33 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 20:39:30 INFO  TC001_VerifyLoginWithInvalidCredntiala:26 - ===================Starting test TC001_VerifyLoginWithInvalidCredntiala ================================
+2017-07-09 20:40:00 INFO  TC001_VerifyLoginWithInvalidCredntiala:36 - ===================finished test TC001_VerifyLoginWithInvalidCredntiala ================================
+2017-07-09 21:12:34 INFO  TestBase:42 - creating a object of Firefox
+2017-07-09 21:12:34 INFO  TestBase:45 - firefox is up and maximaze for use
+2017-07-09 21:12:34 INFO  TestBase:27 - Luanched Browser
+2017-07-09 21:12:37 INFO  TestBase:29 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-09 21:12:37 INFO  TestBase:33 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 21:12:37 INFO  TC002__VerifyRegistration:28 - ===================Starting of testcase VerifyRegistration========================== 
+2017-07-09 21:14:33 INFO  TestBase:42 - creating a object of Firefox
+2017-07-09 21:14:33 INFO  TestBase:45 - firefox is up and maximaze for use
+2017-07-09 21:14:33 INFO  TestBase:27 - Luanched Browser
+2017-07-09 21:14:35 INFO  TestBase:29 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-09 21:14:35 INFO  TestBase:33 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 21:14:35 INFO  TC002__VerifyRegistration:28 - ===================Starting of testcase VerifyRegistration========================== 
+2017-07-09 21:16:58 INFO  TestBase:43 - creating a object of Firefox
+2017-07-09 21:16:58 INFO  TestBase:46 - firefox is up and maximaze for use
+2017-07-09 21:16:58 INFO  TestBase:28 - Luanched Browser
+2017-07-09 21:17:08 INFO  TestBase:30 - navigation to url:-   http://automationpractice.com/index.php
+2017-07-09 21:17:08 INFO  TestBase:34 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 21:17:08 INFO  TC001_VerifyLoginWithInvalidCredntiala:26 - ===================Starting test TC001_VerifyLoginWithInvalidCredntiala ================================
+2017-07-09 21:17:11 INFO  HomePage:79 - User clicked on Sign In Button in homepage  [[FirefoxDriver: firefox on WINDOWS (986aa7da-faf0-4b7a-b656-345a5bef5237)] -> class name: login]
+2017-07-09 21:17:11 INFO  HomePage:81 - Logon id is [[FirefoxDriver: firefox on WINDOWS (986aa7da-faf0-4b7a-b656-345a5bef5237)] -> id: email]Test@gmail.com
+2017-07-09 21:17:13 INFO  HomePage:132 - error msg on screen is Authentication failed.
+2017-07-09 21:17:13 INFO  TC001_VerifyLoginWithInvalidCredntiala:36 - ===================finished test TC001_VerifyLoginWithInvalidCredntiala ================================
+2017-07-09 21:19:25 INFO  TestBase:43 - creating a object of Firefox
+2017-07-09 21:19:26 INFO  TestBase:46 - firefox is up and maximaze for use
+2017-07-09 21:19:26 INFO  TestBase:28 - Luanched Browser
+2017-07-09 21:19:28 INFO  TestBase:30 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-09 21:19:28 INFO  TestBase:34 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 21:19:28 INFO  TC001_VerifyLoginWithInvalidCredntiala:32 - ===================Starting test TC002__VerifyRegistration ================================
+2017-07-09 21:19:28 INFO  TC001_VerifyLoginWithInvalidCredntiala:41 - ===================finished test TC002__VerifyRegistration================================
+2017-07-09 21:20:23 INFO  TestBase:43 - creating a object of Firefox
+2017-07-09 21:20:23 INFO  TestBase:46 - firefox is up and maximaze for use
+2017-07-09 21:20:23 INFO  TestBase:28 - Luanched Browser
+2017-07-09 21:20:26 INFO  TestBase:30 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-09 21:20:26 INFO  TestBase:34 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 21:20:26 INFO  TC001_VerifyLoginWithInvalidCredntiala:26 - ===================Starting test TC002__VerifyRegistration ================================
+2017-07-09 21:20:29 INFO  HomePage:107 - User Clicked SignUpLink    [[FirefoxDriver: firefox on WINDOWS (6b5f85e2-c72e-4bc5-b2bf-1c8b19165a69)] -> id: customer_register_link]
+2017-07-09 21:20:29 INFO  HomePage:111 - Script entered firstName    [[FirefoxDriver: firefox on WINDOWS (6b5f85e2-c72e-4bc5-b2bf-1c8b19165a69)] -> id: FirstName]
+2017-07-09 21:20:29 INFO  HomePage:115 - Script entered  lastName  [[FirefoxDriver: firefox on WINDOWS (6b5f85e2-c72e-4bc5-b2bf-1c8b19165a69)] -> id: LastName]
+2017-07-09 21:20:30 INFO  HomePage:119 - Script entered email    [[FirefoxDriver: firefox on WINDOWS (6b5f85e2-c72e-4bc5-b2bf-1c8b19165a69)] -> id: Email]
+2017-07-09 21:20:30 INFO  HomePage:123 - Script entered password    [[FirefoxDriver: firefox on WINDOWS (6b5f85e2-c72e-4bc5-b2bf-1c8b19165a69)] -> id: CreatePassword]
+2017-07-09 21:20:33 INFO  HomePage:126 - Script clicked submitButtonSignUp    [[FirefoxDriver: firefox on WINDOWS (6b5f85e2-c72e-4bc5-b2bf-1c8b19165a69)] -> class name: btn]
+2017-07-09 21:20:33 INFO  TC001_VerifyLoginWithInvalidCredntiala:36 - ===================finished test TC002__VerifyRegistration================================
+2017-07-09 21:34:10 INFO  TestBase:43 - creating a object of Firefox
+2017-07-09 21:34:10 INFO  TestBase:46 - firefox is up and maximaze for use
+2017-07-09 21:34:10 INFO  TestBase:28 - Luanched Browser
+2017-07-09 21:34:12 INFO  TestBase:30 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-09 21:34:12 INFO  TestBase:34 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 21:34:12 INFO  TC001_VerifyLoginWithInvalidCredntiala:27 - ===================Starting test TC002__VerifyRegistration ================================
+2017-07-09 21:34:15 INFO  HomePage:107 - User Clicked SignUpLink    [[FirefoxDriver: firefox on WINDOWS (6770c8ed-b31f-440c-85a9-649cf731d4fc)] -> id: customer_register_link]
+2017-07-09 21:34:15 INFO  HomePage:111 - Script entered firstName    [[FirefoxDriver: firefox on WINDOWS (6770c8ed-b31f-440c-85a9-649cf731d4fc)] -> id: FirstName]
+2017-07-09 21:34:15 INFO  HomePage:115 - Script entered  lastName  [[FirefoxDriver: firefox on WINDOWS (6770c8ed-b31f-440c-85a9-649cf731d4fc)] -> id: LastName]
+2017-07-09 21:34:15 INFO  HomePage:119 - Script entered email    [[FirefoxDriver: firefox on WINDOWS (6770c8ed-b31f-440c-85a9-649cf731d4fc)] -> id: Email]
+2017-07-09 21:34:16 INFO  HomePage:123 - Script entered password    [[FirefoxDriver: firefox on WINDOWS (6770c8ed-b31f-440c-85a9-649cf731d4fc)] -> id: CreatePassword]
+2017-07-09 21:34:19 INFO  HomePage:126 - Script clicked submitButtonSignUp    [[FirefoxDriver: firefox on WINDOWS (6770c8ed-b31f-440c-85a9-649cf731d4fc)] -> class name: btn]
+2017-07-09 21:34:58 INFO  TestBase:43 - creating a object of Firefox
+2017-07-09 21:34:58 INFO  TestBase:46 - firefox is up and maximaze for use
+2017-07-09 21:34:58 INFO  TestBase:28 - Luanched Browser
+2017-07-09 21:35:00 INFO  TestBase:30 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-09 21:35:00 INFO  TestBase:34 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 21:35:00 INFO  TC001_VerifyLoginWithInvalidCredntiala:27 - ===================Starting test TC002__VerifyRegistration ================================
+2017-07-09 21:35:04 INFO  HomePage:107 - User Clicked SignUpLink    [[FirefoxDriver: firefox on WINDOWS (ecc82649-6d3b-453b-b738-a414a7db9cb2)] -> id: customer_register_link]
+2017-07-09 21:35:04 INFO  HomePage:111 - Script entered firstName    [[FirefoxDriver: firefox on WINDOWS (ecc82649-6d3b-453b-b738-a414a7db9cb2)] -> id: FirstName]
+2017-07-09 21:35:05 INFO  HomePage:115 - Script entered  lastName  [[FirefoxDriver: firefox on WINDOWS (ecc82649-6d3b-453b-b738-a414a7db9cb2)] -> id: LastName]
+2017-07-09 21:35:05 INFO  HomePage:119 - Script entered email    [[FirefoxDriver: firefox on WINDOWS (ecc82649-6d3b-453b-b738-a414a7db9cb2)] -> id: Email]
+2017-07-09 21:35:05 INFO  HomePage:123 - Script entered password    [[FirefoxDriver: firefox on WINDOWS (ecc82649-6d3b-453b-b738-a414a7db9cb2)] -> id: CreatePassword]
+2017-07-09 21:35:07 INFO  HomePage:126 - Script clicked submitButtonSignUp    [[FirefoxDriver: firefox on WINDOWS (ecc82649-6d3b-453b-b738-a414a7db9cb2)] -> class name: btn]
+2017-07-09 21:35:07 INFO  TC001_VerifyLoginWithInvalidCredntiala:38 - ===================finished test TC002__VerifyRegistration================================
+2017-07-09 21:52:01 INFO  TestBase:43 - creating a object of Firefox
+2017-07-09 21:52:01 INFO  TestBase:46 - firefox is up and maximaze for use
+2017-07-09 21:52:01 INFO  TestBase:28 - Luanched Browser
+2017-07-09 21:52:04 INFO  TestBase:30 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-09 21:52:04 INFO  TestBase:34 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 21:52:04 INFO  TC001_VerifyLoginWithInvalidCredntiala:27 - ===================Starting test TC002__VerifyRegistration ================================
+2017-07-09 21:52:04 INFO  TC001_VerifyLoginWithInvalidCredntiala:29 - Focus Shifted to Iframe with id PreviewFrame
+2017-07-09 21:52:08 INFO  HomePage:112 - User Clicked SignUpLink    [[FirefoxDriver: firefox on WINDOWS (0e8c3f94-26f7-4ddf-bdf6-5165fccc203b)] -> id: customer_register_link]
+2017-07-09 21:52:08 INFO  HomePage:116 - Script entered firstName    [[FirefoxDriver: firefox on WINDOWS (0e8c3f94-26f7-4ddf-bdf6-5165fccc203b)] -> id: FirstName]
+2017-07-09 21:52:08 INFO  HomePage:120 - Script entered  lastName  [[FirefoxDriver: firefox on WINDOWS (0e8c3f94-26f7-4ddf-bdf6-5165fccc203b)] -> id: LastName]
+2017-07-09 21:52:08 INFO  HomePage:124 - Script entered email    [[FirefoxDriver: firefox on WINDOWS (0e8c3f94-26f7-4ddf-bdf6-5165fccc203b)] -> id: Email]
+2017-07-09 21:52:08 INFO  HomePage:128 - Script entered password    [[FirefoxDriver: firefox on WINDOWS (0e8c3f94-26f7-4ddf-bdf6-5165fccc203b)] -> id: CreatePassword]
+2017-07-09 21:52:11 INFO  HomePage:131 - Script clicked submitButtonSignUp    [[FirefoxDriver: firefox on WINDOWS (0e8c3f94-26f7-4ddf-bdf6-5165fccc203b)] -> class name: btn]
+2017-07-09 21:52:11 INFO  TC001_VerifyLoginWithInvalidCredntiala:40 - ===================finished test TC002__VerifyRegistration================================
+2017-07-09 22:11:03 INFO  TestBase:43 - creating a object of Firefox
+2017-07-09 22:11:03 INFO  TestBase:46 - firefox is up and maximaze for use
+2017-07-09 22:11:03 INFO  TestBase:28 - Luanched Browser
+2017-07-09 22:11:05 INFO  TestBase:30 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-09 22:11:05 INFO  TestBase:34 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 22:11:05 INFO  TC001_VerifyLoginWithInvalidCredntiala:27 - ===================Starting test TC002__VerifyRegistration ================================
+2017-07-09 22:11:06 INFO  TC001_VerifyLoginWithInvalidCredntiala:29 - Focus Shifted to Iframe with id PreviewFrame
+2017-07-09 22:11:08 INFO  HomePage:112 - User Clicked SignUpLink    [[FirefoxDriver: firefox on WINDOWS (95407460-3ba9-4f56-897f-c49115031d54)] -> id: customer_register_link]
+2017-07-09 22:11:08 INFO  HomePage:116 - Script entered firstName    [[FirefoxDriver: firefox on WINDOWS (95407460-3ba9-4f56-897f-c49115031d54)] -> id: FirstName]
+2017-07-09 22:11:09 INFO  HomePage:120 - Script entered  lastName  [[FirefoxDriver: firefox on WINDOWS (95407460-3ba9-4f56-897f-c49115031d54)] -> id: LastName]
+2017-07-09 22:11:10 INFO  HomePage:124 - Script entered email    [[FirefoxDriver: firefox on WINDOWS (95407460-3ba9-4f56-897f-c49115031d54)] -> id: Email]
+2017-07-09 22:11:10 INFO  HomePage:128 - Script entered password    [[FirefoxDriver: firefox on WINDOWS (95407460-3ba9-4f56-897f-c49115031d54)] -> id: CreatePassword]
+2017-07-09 22:11:12 INFO  HomePage:131 - Script clicked submitButtonSignUp    [[FirefoxDriver: firefox on WINDOWS (95407460-3ba9-4f56-897f-c49115031d54)] -> class name: btn]
+2017-07-09 22:11:12 INFO  TC001_VerifyLoginWithInvalidCredntiala:32 - Scripte completed RegisterUser part and moved to next page for Roobt page for confirmation
+2017-07-09 22:11:12 INFO  TC001_VerifyLoginWithInvalidCredntiala:40 - ===================finished test TC002__VerifyRegistration================================
+2017-07-09 23:11:18 INFO  TestBase:43 - creating a object of Firefox
+2017-07-09 23:11:18 INFO  TestBase:46 - firefox is up and maximaze for use
+2017-07-09 23:11:18 INFO  TestBase:28 - Luanched Browser
+2017-07-09 23:11:21 INFO  TestBase:30 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-09 23:11:21 INFO  TestBase:34 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 23:11:21 INFO  TC001_VerifyLoginWithInvalidCredntiala:27 - ===================Starting test TC002__VerifyRegistration ================================
+2017-07-09 23:11:21 INFO  TC001_VerifyLoginWithInvalidCredntiala:29 - Focus Shifted to Iframe with id PreviewFrame
+2017-07-09 23:12:47 INFO  TestBase:43 - creating a object of Firefox
+2017-07-09 23:12:47 INFO  TestBase:46 - firefox is up and maximaze for use
+2017-07-09 23:12:47 INFO  TestBase:28 - Luanched Browser
+2017-07-09 23:12:50 INFO  TestBase:30 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-09 23:12:50 INFO  TestBase:34 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 23:12:50 INFO  TC001_VerifyLoginWithInvalidCredntiala:27 - ===================Starting test TC002__VerifyRegistration ================================
+2017-07-09 23:12:50 INFO  TC001_VerifyLoginWithInvalidCredntiala:29 - Focus Shifted to Iframe with id PreviewFrame
+2017-07-09 23:12:54 INFO  HomePage:113 - User Clicked SignUpLink    [[FirefoxDriver: firefox on WINDOWS (55fcb870-a1eb-4143-87db-d11025725eac)] -> id: customer_register_link]
+2017-07-09 23:12:54 INFO  HomePage:117 - Script entered firstName    [[FirefoxDriver: firefox on WINDOWS (55fcb870-a1eb-4143-87db-d11025725eac)] -> id: FirstName]
+2017-07-09 23:12:54 INFO  HomePage:121 - Script entered  lastName  [[FirefoxDriver: firefox on WINDOWS (55fcb870-a1eb-4143-87db-d11025725eac)] -> id: LastName]
+2017-07-09 23:12:54 INFO  HomePage:125 - Script entered email    [[FirefoxDriver: firefox on WINDOWS (55fcb870-a1eb-4143-87db-d11025725eac)] -> id: Email]
+2017-07-09 23:12:54 INFO  HomePage:129 - Script entered password    [[FirefoxDriver: firefox on WINDOWS (55fcb870-a1eb-4143-87db-d11025725eac)] -> id: CreatePassword]
+2017-07-09 23:12:57 INFO  HomePage:132 - Script clicked submitButtonSignUp    [[FirefoxDriver: firefox on WINDOWS (55fcb870-a1eb-4143-87db-d11025725eac)] -> class name: btn]
+2017-07-09 23:12:57 INFO  TC001_VerifyLoginWithInvalidCredntiala:32 - Scripte completed RegisterUser part and moved to next page for Roobt page for confirmation
+2017-07-09 23:12:57 INFO  TC001_VerifyLoginWithInvalidCredntiala:40 - ===================finished test TC002__VerifyRegistration================================
+2017-07-09 23:14:16 INFO  TestBase:43 - creating a object of Firefox
+2017-07-09 23:14:17 INFO  TestBase:46 - firefox is up and maximaze for use
+2017-07-09 23:14:17 INFO  TestBase:28 - Luanched Browser
+2017-07-09 23:14:19 INFO  TestBase:30 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-09 23:14:19 INFO  TestBase:34 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 23:14:19 INFO  TC001_VerifyLoginWithInvalidCredntiala:27 - ===================Starting test TC002__VerifyRegistration ================================
+2017-07-09 23:14:19 INFO  TC001_VerifyLoginWithInvalidCredntiala:29 - Focus Shifted to Iframe with id PreviewFrame
+2017-07-09 23:14:22 INFO  HomePage:113 - User Clicked SignUpLink    [[FirefoxDriver: firefox on WINDOWS (0781918e-3301-4787-b96e-0c0b7004ce43)] -> id: customer_register_link]
+2017-07-09 23:14:22 INFO  HomePage:117 - Script entered firstName    [[FirefoxDriver: firefox on WINDOWS (0781918e-3301-4787-b96e-0c0b7004ce43)] -> id: FirstName]
+2017-07-09 23:14:22 INFO  HomePage:121 - Script entered  lastName  [[FirefoxDriver: firefox on WINDOWS (0781918e-3301-4787-b96e-0c0b7004ce43)] -> id: LastName]
+2017-07-09 23:14:22 INFO  HomePage:125 - Script entered email    [[FirefoxDriver: firefox on WINDOWS (0781918e-3301-4787-b96e-0c0b7004ce43)] -> id: Email]
+2017-07-09 23:14:22 INFO  HomePage:129 - Script entered password    [[FirefoxDriver: firefox on WINDOWS (0781918e-3301-4787-b96e-0c0b7004ce43)] -> id: CreatePassword]
+2017-07-09 23:14:25 INFO  HomePage:132 - Script clicked submitButtonSignUp    [[FirefoxDriver: firefox on WINDOWS (0781918e-3301-4787-b96e-0c0b7004ce43)] -> class name: btn]
+2017-07-09 23:14:25 INFO  TC001_VerifyLoginWithInvalidCredntiala:32 - Scripte completed RegisterUser part and moved to next page for Roobt page for confirmation
+2017-07-09 23:14:25 INFO  TC001_VerifyLoginWithInvalidCredntiala:39 - To continue, let us know you're not a robot.
+2017-07-09 23:14:25 INFO  TC001_VerifyLoginWithInvalidCredntiala:40 - ===================finished test TC002__VerifyRegistration================================
+2017-07-09 23:17:09 INFO  TestBase:43 - creating a object of Firefox
+2017-07-09 23:17:09 INFO  TestBase:46 - firefox is up and maximaze for use
+2017-07-09 23:17:09 INFO  TestBase:28 - Luanched Browser
+2017-07-09 23:17:12 INFO  TestBase:30 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-09 23:17:12 INFO  TestBase:34 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 23:17:12 INFO  TC001_VerifyLoginWithInvalidCredntiala:27 - ===================Starting test TC002__VerifyRegistration ================================
+2017-07-09 23:17:12 INFO  TC001_VerifyLoginWithInvalidCredntiala:29 - Focus Shifted to Iframe with id PreviewFrame
+2017-07-09 23:25:26 INFO  TestBase:43 - creating a object of Firefox
+2017-07-09 23:25:26 INFO  TestBase:46 - firefox is up and maximaze for use
+2017-07-09 23:25:26 INFO  TestBase:28 - Luanched Browser
+2017-07-09 23:25:29 INFO  TestBase:30 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-09 23:25:29 INFO  TestBase:34 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-09 23:25:29 INFO  TC001_VerifyLoginWithInvalidCredntiala:27 - ===================Starting test TC002__VerifyRegistration ================================
+2017-07-09 23:25:29 INFO  TC001_VerifyLoginWithInvalidCredntiala:29 - Focus Shifted to Iframe with id PreviewFrame
+2017-07-09 23:25:32 INFO  HomePage:111 - User Clicked SignUpLink    [[FirefoxDriver: firefox on WINDOWS (e69dd841-328a-4839-a0ed-a3bbb3e9d8a0)] -> id: customer_register_link]
+2017-07-09 23:25:32 INFO  HomePage:115 - Script entered firstName    [[FirefoxDriver: firefox on WINDOWS (e69dd841-328a-4839-a0ed-a3bbb3e9d8a0)] -> id: FirstName]
+2017-07-09 23:25:32 INFO  HomePage:119 - Script entered  lastName  [[FirefoxDriver: firefox on WINDOWS (e69dd841-328a-4839-a0ed-a3bbb3e9d8a0)] -> id: LastName]
+2017-07-09 23:25:32 INFO  HomePage:123 - Script entered email    [[FirefoxDriver: firefox on WINDOWS (e69dd841-328a-4839-a0ed-a3bbb3e9d8a0)] -> id: Email]
+2017-07-09 23:25:32 INFO  HomePage:127 - Script entered password    [[FirefoxDriver: firefox on WINDOWS (e69dd841-328a-4839-a0ed-a3bbb3e9d8a0)] -> id: CreatePassword]
+2017-07-09 23:25:35 INFO  HomePage:130 - Script clicked submitButtonSignUp    [[FirefoxDriver: firefox on WINDOWS (e69dd841-328a-4839-a0ed-a3bbb3e9d8a0)] -> class name: btn]
+2017-07-09 23:25:35 INFO  TC001_VerifyLoginWithInvalidCredntiala:32 - Scripte completed RegisterUser part and moved to next page for Roobt page for confirmation
+2017-07-09 23:25:35 INFO  TC001_VerifyLoginWithInvalidCredntiala:39 - To continue, let us know you're not a robot.
+2017-07-09 23:25:35 INFO  TC001_VerifyLoginWithInvalidCredntiala:40 - ===================finished test TC002__VerifyRegistration================================
+2017-07-13 23:14:19 INFO  TestBase:43 - creating a object of Firefox
+2017-07-13 23:14:20 INFO  TestBase:46 - firefox is up and maximaze for use
+2017-07-13 23:14:20 INFO  TestBase:28 - Luanched Browser
+2017-07-13 23:14:24 INFO  TestBase:30 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-13 23:14:24 INFO  TestBase:34 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-13 23:14:24 INFO  TC001_VerifyLoginWithInvalidCredntiala:27 - ===================Starting test TC001_VerifyLoginWithInvalidCredntiala ================================
+2017-07-13 23:14:54 INFO  TC001_VerifyLoginWithInvalidCredntiala:37 - ===================finished test TC001_VerifyLoginWithInvalidCredntiala ================================
+2017-07-13 23:16:00 INFO  TestBase:43 - creating a object of Firefox
+2017-07-13 23:16:00 INFO  TestBase:46 - firefox is up and maximaze for use
+2017-07-13 23:16:00 INFO  TestBase:28 - Luanched Browser
+2017-07-13 23:16:02 INFO  TestBase:30 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-07-13 23:16:02 INFO  TestBase:34 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-07-13 23:16:02 INFO  TC001_VerifyLoginWithInvalidCredntiala:27 - ===================Starting test TC001_VerifyLoginWithInvalidCredntiala ================================
+2017-07-13 23:16:32 INFO  TC001_VerifyLoginWithInvalidCredntiala:37 - ===================finished test TC001_VerifyLoginWithInvalidCredntiala ================================

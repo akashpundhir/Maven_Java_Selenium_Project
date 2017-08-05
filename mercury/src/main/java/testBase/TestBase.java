@@ -13,7 +13,7 @@ public class TestBase {
 
 	public static final Logger log= Logger.getLogger(TestBase.class.getName());
 	public WebDriver driver;
-	String BrowserName="Firefox";
+	String BrowserName="firefox";
 	String url="file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm";
 			//"http://automationpractice.com/index.php";
 	//file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
@@ -47,13 +47,19 @@ public class TestBase {
 			}
 		else if (BrowserName.equalsIgnoreCase("IE")) {
 			System.setProperty("WebDriver.IE.driver",System.getProperty("User.dir")+"drivers\\iexploredriver.exe");
+			
 			driver=new InternetExplorerDriver();
 			log.info("creating a object of "+BrowserName);
 			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 			driver.manage().window().maximize();
 		}
 		else if (BrowserName.equalsIgnoreCase("Chrome")) {
-			System.setProperty("webdriver.chrome.driver",System.getProperty("User.dir")+"drivers\\chromedriver.exe");
+			System.out.println(System.getProperty("User.dir"));
+			//System.setProperty("webdriver.chrome.driver",System.getProperty("User.dir")+"drivers\\chromedriver.exe");
+			
+			System.setProperty("webdriver.chrome.driver","C:\\Users\\006\\git\\MySeleniumProject\\mercury\\drivers\\chromedriver.exe");
+			
+			
 			driver=new ChromeDriver();
 			log.info("creating a object of "+BrowserName);
 			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);

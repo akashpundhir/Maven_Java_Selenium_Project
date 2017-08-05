@@ -282,3 +282,100 @@
 2017-07-13 23:16:02 INFO  TestBase:34 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
 2017-07-13 23:16:02 INFO  TC001_VerifyLoginWithInvalidCredntiala:27 - ===================Starting test TC001_VerifyLoginWithInvalidCredntiala ================================
 2017-07-13 23:16:32 INFO  TC001_VerifyLoginWithInvalidCredntiala:37 - ===================finished test TC001_VerifyLoginWithInvalidCredntiala ================================
+2017-08-01 20:59:10 INFO  TestBase:43 - creating a object of Firefox
+2017-08-01 20:59:10 INFO  TestBase:46 - firefox is up and maximaze for use
+2017-08-01 20:59:10 INFO  TestBase:28 - Luanched Browser
+2017-08-01 20:59:14 INFO  TestBase:30 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-08-01 20:59:14 INFO  TestBase:32 - =======This line is to check changes at the time of commit==============
+2017-08-01 20:59:14 INFO  TestBase:34 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-08-01 20:59:14 INFO  TC001_VerifyLoginWithInvalidCredntiala:27 - ===================Starting test TC001_VerifyLoginWithInvalidCredntiala ================================
+2017-08-01 20:59:46 INFO  TC001_VerifyLoginWithInvalidCredntiala:37 - ===================finished test TC001_VerifyLoginWithInvalidCredntiala ================================
+2017-08-01 21:02:31 INFO  TestBase:43 - creating a object of Firefox
+2017-08-01 21:02:31 INFO  TestBase:46 - firefox is up and maximaze for use
+2017-08-01 21:02:31 INFO  TestBase:28 - Luanched Browser
+2017-08-01 21:02:36 INFO  TestBase:30 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-08-01 21:02:36 INFO  TestBase:32 - =======This line is to check changes at the time of commit==============
+2017-08-01 21:02:36 INFO  TestBase:34 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-08-01 21:02:36 INFO  TC001_VerifyLoginWithInvalidCredntiala:27 - ===================Starting test TC002__VerifyRegistration ================================
+2017-08-01 21:02:36 INFO  TC001_VerifyLoginWithInvalidCredntiala:29 - Focus Shifted to Iframe with id PreviewFrame
+2017-08-01 21:02:39 INFO  HomePage:110 - User Clicked SignUpLink    [[FirefoxDriver: firefox on WINDOWS (ef3495b9-510f-4ed7-92fa-a672055f93eb)] -> id: customer_register_link]
+2017-08-01 21:02:39 INFO  HomePage:114 - Script entered firstName    [[FirefoxDriver: firefox on WINDOWS (ef3495b9-510f-4ed7-92fa-a672055f93eb)] -> id: FirstName]
+2017-08-01 21:02:39 INFO  HomePage:118 - Script entered  lastName  [[FirefoxDriver: firefox on WINDOWS (ef3495b9-510f-4ed7-92fa-a672055f93eb)] -> id: LastName]
+2017-08-01 21:02:39 INFO  HomePage:122 - Script entered email    [[FirefoxDriver: firefox on WINDOWS (ef3495b9-510f-4ed7-92fa-a672055f93eb)] -> id: Email]
+2017-08-01 21:02:40 INFO  HomePage:126 - Script entered password    [[FirefoxDriver: firefox on WINDOWS (ef3495b9-510f-4ed7-92fa-a672055f93eb)] -> id: CreatePassword]
+2017-08-01 21:02:42 INFO  HomePage:129 - Script clicked submitButtonSignUp    [[FirefoxDriver: firefox on WINDOWS (ef3495b9-510f-4ed7-92fa-a672055f93eb)] -> class name: btn]
+2017-08-01 21:02:42 INFO  TC001_VerifyLoginWithInvalidCredntiala:32 - Scripte completed RegisterUser part and moved to next page for Roobt page for confirmation
+2017-08-05 18:01:51 INFO  TestBase:43 - creating a object of Firefox
+2017-08-05 18:01:51 INFO  TestBase:46 - firefox is up and maximaze for use
+2017-08-05 18:01:51 INFO  TestBase:28 - Luanched Browser
+2017-08-05 18:01:55 INFO  TestBase:30 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-08-05 18:01:55 INFO  TestBase:32 - =======This line is to check changes at the time of commit==============
+2017-08-05 18:01:55 INFO  TestBase:34 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-08-05 18:01:55 INFO  TC001_VerifyLoginWithInvalidCredntiala:27 - ===================Starting test TC002__VerifyRegistration ================================
+2017-08-05 18:01:55 INFO  TC001_VerifyLoginWithInvalidCredntiala:29 - Focus Shifted to Iframe with id PreviewFrame
+2017-08-05 18:01:58 INFO  HomePage:110 - User Clicked SignUpLink    [[FirefoxDriver: firefox on WINDOWS (6eff8b96-633a-4d42-a0a8-37e3303a0845)] -> id: customer_register_link]
+2017-08-05 18:01:58 INFO  HomePage:114 - Script entered firstName    [[FirefoxDriver: firefox on WINDOWS (6eff8b96-633a-4d42-a0a8-37e3303a0845)] -> id: FirstName]
+2017-08-05 18:01:58 INFO  HomePage:118 - Script entered  lastName  [[FirefoxDriver: firefox on WINDOWS (6eff8b96-633a-4d42-a0a8-37e3303a0845)] -> id: LastName]
+2017-08-05 18:01:58 INFO  HomePage:122 - Script entered email    [[FirefoxDriver: firefox on WINDOWS (6eff8b96-633a-4d42-a0a8-37e3303a0845)] -> id: Email]
+2017-08-05 18:01:59 INFO  HomePage:126 - Script entered password    [[FirefoxDriver: firefox on WINDOWS (6eff8b96-633a-4d42-a0a8-37e3303a0845)] -> id: CreatePassword]
+2017-08-05 18:02:01 INFO  HomePage:129 - Script clicked submitButtonSignUp    [[FirefoxDriver: firefox on WINDOWS (6eff8b96-633a-4d42-a0a8-37e3303a0845)] -> class name: btn]
+2017-08-05 18:02:01 INFO  TC001_VerifyLoginWithInvalidCredntiala:32 - Scripte completed RegisterUser part and moved to next page for Roobt page for confirmation
+2017-08-05 18:02:08 INFO  TC001_VerifyLoginWithInvalidCredntiala:39 - To continue, let us know you're not a robot.
+2017-08-05 18:02:08 INFO  TC001_VerifyLoginWithInvalidCredntiala:40 - ===================finished test TC002__VerifyRegistration================================
+2017-08-05 18:07:47 INFO  TestBase:43 - creating a object of Firefox
+2017-08-05 18:07:47 INFO  TestBase:46 - firefox is up and maximaze for use
+2017-08-05 18:07:47 INFO  TestBase:28 - Luanched Browser
+2017-08-05 18:07:50 INFO  TestBase:30 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-08-05 18:07:50 INFO  TestBase:32 - =======This line is to check changes at the time of commit==============
+2017-08-05 18:07:50 INFO  TestBase:34 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-08-05 18:07:50 INFO  TC001_VerifyLoginWithInvalidCredntiala:28 - ===================Starting test TC002__VerifyRegistration ================================
+2017-08-05 18:07:50 INFO  TC001_VerifyLoginWithInvalidCredntiala:30 - Focus Shifted to Iframe with id PreviewFrame
+2017-08-05 18:07:52 INFO  HomePage:110 - User Clicked SignUpLink    [[FirefoxDriver: firefox on WINDOWS (9728044d-f80e-4e41-893e-c72cda72f83f)] -> id: customer_register_link]
+2017-08-05 18:07:52 INFO  HomePage:114 - Script entered firstName    [[FirefoxDriver: firefox on WINDOWS (9728044d-f80e-4e41-893e-c72cda72f83f)] -> id: FirstName]
+2017-08-05 18:07:52 INFO  HomePage:118 - Script entered  lastName  [[FirefoxDriver: firefox on WINDOWS (9728044d-f80e-4e41-893e-c72cda72f83f)] -> id: LastName]
+2017-08-05 18:07:53 INFO  HomePage:122 - Script entered email    [[FirefoxDriver: firefox on WINDOWS (9728044d-f80e-4e41-893e-c72cda72f83f)] -> id: Email]
+2017-08-05 18:07:53 INFO  HomePage:126 - Script entered password    [[FirefoxDriver: firefox on WINDOWS (9728044d-f80e-4e41-893e-c72cda72f83f)] -> id: CreatePassword]
+2017-08-05 18:07:55 INFO  HomePage:129 - Script clicked submitButtonSignUp    [[FirefoxDriver: firefox on WINDOWS (9728044d-f80e-4e41-893e-c72cda72f83f)] -> class name: btn]
+2017-08-05 18:07:55 INFO  TC001_VerifyLoginWithInvalidCredntiala:33 - Scripte completed RegisterUser part and moved to next page for Roobt page for confirmation
+2017-08-05 18:07:55 INFO  TC001_VerifyLoginWithInvalidCredntiala:46 - To continue, let us know you're not a robot.
+2017-08-05 18:07:55 INFO  TC001_VerifyLoginWithInvalidCredntiala:47 - ===================finished test TC002__VerifyRegistration================================
+2017-08-05 18:12:38 INFO  TestBase:43 - creating a object of Firefox
+2017-08-05 18:12:38 INFO  TestBase:46 - firefox is up and maximaze for use
+2017-08-05 18:12:38 INFO  TestBase:28 - Luanched Browser
+2017-08-05 18:12:40 INFO  TestBase:30 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-08-05 18:12:40 INFO  TestBase:32 - =======This line is to check changes at the time of commit==============
+2017-08-05 18:12:40 INFO  TestBase:34 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-08-05 18:12:40 INFO  TC001_VerifyLoginWithInvalidCredntiala:28 - ===================Starting test TC002__VerifyRegistration ================================
+2017-08-05 18:12:40 INFO  TC001_VerifyLoginWithInvalidCredntiala:30 - Focus Shifted to Iframe with id PreviewFrame
+2017-08-05 18:12:43 INFO  HomePage:110 - User Clicked SignUpLink    [[FirefoxDriver: firefox on WINDOWS (9f6ff5a4-ad06-4fec-a93e-e36675984089)] -> id: customer_register_link]
+2017-08-05 18:12:43 INFO  HomePage:114 - Script entered firstName    [[FirefoxDriver: firefox on WINDOWS (9f6ff5a4-ad06-4fec-a93e-e36675984089)] -> id: FirstName]
+2017-08-05 18:12:43 INFO  HomePage:118 - Script entered  lastName  [[FirefoxDriver: firefox on WINDOWS (9f6ff5a4-ad06-4fec-a93e-e36675984089)] -> id: LastName]
+2017-08-05 18:12:43 INFO  HomePage:122 - Script entered email    [[FirefoxDriver: firefox on WINDOWS (9f6ff5a4-ad06-4fec-a93e-e36675984089)] -> id: Email]
+2017-08-05 18:12:43 INFO  HomePage:126 - Script entered password    [[FirefoxDriver: firefox on WINDOWS (9f6ff5a4-ad06-4fec-a93e-e36675984089)] -> id: CreatePassword]
+2017-08-05 18:12:45 INFO  HomePage:129 - Script clicked submitButtonSignUp    [[FirefoxDriver: firefox on WINDOWS (9f6ff5a4-ad06-4fec-a93e-e36675984089)] -> class name: btn]
+2017-08-05 18:12:45 INFO  TC001_VerifyLoginWithInvalidCredntiala:33 - Scripte completed RegisterUser part and moved to next page for Roobt page for confirmation
+2017-08-05 18:56:35 INFO  TestBase:44 - creating a object of firefox
+2017-08-05 18:56:36 INFO  TestBase:47 - firefox is up and maximaze for use
+2017-08-05 18:56:36 INFO  TestBase:29 - Luanched Browser
+2017-08-05 18:56:39 INFO  TestBase:31 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-08-05 18:56:39 INFO  TestBase:33 - =======This line is to check changes at the time of commit==============
+2017-08-05 18:56:39 INFO  TestBase:35 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-08-05 18:56:39 INFO  TC001_VerifyLoginWithInvalidCredntiala:27 - ===================Starting test TC001_VerifyLoginWithInvalidCredntiala ================================
+2017-08-05 18:57:09 INFO  TC001_VerifyLoginWithInvalidCredntiala:37 - ===================finished test TC001_VerifyLoginWithInvalidCredntiala ================================
+2017-08-05 18:58:55 INFO  TestBase:43 - creating a object of firefox
+2017-08-05 18:58:55 INFO  TestBase:46 - firefox is up and maximaze for use
+2017-08-05 18:58:55 INFO  TestBase:28 - Luanched Browser
+2017-08-05 18:58:57 INFO  TestBase:30 - navigation to url:-   file:///C:/Users/006/Downloads/PageObjectWithPageFactoryFramework-master/PageObjectWithPageFactoryFramework-master/project/demoSite.htm
+2017-08-05 18:58:57 INFO  TestBase:32 - =======This line is to check changes at the time of commit==============
+2017-08-05 18:58:57 INFO  TestBase:34 - I am a Init function coming from Tetsbase class and consist of selectBrowser AND getUrl Method
+2017-08-05 18:58:57 INFO  TC001_VerifyLoginWithInvalidCredntiala:28 - ===================Starting test TC002__VerifyRegistration ================================
+2017-08-05 18:58:57 INFO  TC001_VerifyLoginWithInvalidCredntiala:30 - Focus Shifted to Iframe with id PreviewFrame
+2017-08-05 18:59:00 INFO  HomePage:110 - User Clicked SignUpLink    [[FirefoxDriver: firefox on WINDOWS (e310af4e-b0e0-4921-b596-19e02473ad23)] -> id: customer_register_link]
+2017-08-05 18:59:00 INFO  HomePage:114 - Script entered firstName    [[FirefoxDriver: firefox on WINDOWS (e310af4e-b0e0-4921-b596-19e02473ad23)] -> id: FirstName]
+2017-08-05 18:59:00 INFO  HomePage:118 - Script entered  lastName  [[FirefoxDriver: firefox on WINDOWS (e310af4e-b0e0-4921-b596-19e02473ad23)] -> id: LastName]
+2017-08-05 18:59:00 INFO  HomePage:122 - Script entered email    [[FirefoxDriver: firefox on WINDOWS (e310af4e-b0e0-4921-b596-19e02473ad23)] -> id: Email]
+2017-08-05 18:59:00 INFO  HomePage:126 - Script entered password    [[FirefoxDriver: firefox on WINDOWS (e310af4e-b0e0-4921-b596-19e02473ad23)] -> id: CreatePassword]
+2017-08-05 18:59:03 INFO  HomePage:129 - Script clicked submitButtonSignUp    [[FirefoxDriver: firefox on WINDOWS (e310af4e-b0e0-4921-b596-19e02473ad23)] -> class name: btn]
+2017-08-05 18:59:03 INFO  TC001_VerifyLoginWithInvalidCredntiala:33 - Scripte completed RegisterUser part and moved to next page for Roobt page for confirmation
+2017-08-05 18:59:03 INFO  TC001_VerifyLoginWithInvalidCredntiala:46 - To continue, let us know you're not a robot.
+2017-08-05 18:59:03 INFO  TC001_VerifyLoginWithInvalidCredntiala:47 - ===================finished test TC002__VerifyRegistration================================

@@ -24,21 +24,33 @@ public class TC002__VerifyRegistration extends TestBase{
 	public void registerUser() throws Exception, Throwable{
 				
 		
-		log.info("===================Starting test TC002__VerifyRegistration ================================");
-	//	driver.switchTo().frame(driver.findElement(By.id("PreviewFrame")));
-		log.info("Focus Shifted to Iframe with id PreviewFrame");
-		HomePage homepage=new HomePage(driver);
-		homepage.rergisterUser();
-		log.info("Scripte completed RegisterUser part and moved to next page for Roobt page for confirmation");
+		try {
+			log.info("===================Starting test TC002__VerifyRegistration ================================");
+//	driver.switchTo().frame(driver.findElement(By.id("PreviewFrame")));
+			log.info("Focus Shifted to Iframe with id PreviewFrame");
+			HomePage homepage=new HomePage(driver);
+			homepage.rergisterUser();
+			log.info("Scripte completed RegisterUser part and moved to next page for Roobt page for confirmation");
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		
 	}
 		@AfterClass
-	public void entTest(){
+	public void endTest(){
 		
-			Assert.assertEquals(driver.findElement(By.xpath(".//*[@id='MainContent']/div/p")).getText(), "To continue, let us know you're not a robot.");
-			log.info(driver.findElement(By.xpath(".//*[@id='MainContent']/div/p")).getText());
-		log.info("===================finished test TC002__VerifyRegistration================================");
-		driver.close();
+						
+			try {
+				Assert.assertEquals(driver.findElement(By.xpath(".//*[@id='MainContent']/div/p")).getText(), "To continue, let us know you're not a robot.");
+				log.info(driver.findElement(By.xpath(".//*[@id='MainContent']/div/p")).getText());
+				log.info("===================finished test TC002__VerifyRegistration================================");
+				driver.close();
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		
 		
 	}
 	

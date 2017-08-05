@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Suit">
+  <test name="TC002__VerifyRegistration"> 
+    <classes>
+      <class name="homePage.TC002__VerifyRegistration"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
